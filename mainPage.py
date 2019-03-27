@@ -21,7 +21,7 @@ def main():
             print(messageStr[i])
         selection =  int(input()) -1
     else:
-        ps.htmlPaserAndDownloader(categoryStr[ selection ], categoryStr[selection]+"top")
+        ps.htmlPaserAndDownloader(categoryStr[ selection ], messageStr[selection])
         print("call func")
 
 

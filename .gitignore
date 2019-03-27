@@ -1,0 +1,9 @@
+#是注释
+#Java class files
+#*.class
+
+# generated files
+bin/
+gen/
+__pycache__/
+img/
